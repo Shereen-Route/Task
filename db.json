@@ -1,0 +1,143 @@
+{
+    "customers":[
+        {
+            "id":1,
+            "name":"Ahmed Mohamed",
+            "traID":[11,12,13,14,15]
+        },
+        {
+            "id":2,
+            "name":"Ali Elsayed",
+            "traID":[21,22,23,24]
+        },
+        {
+            "id":3,
+            "name":"Kareem Omar",
+            "traID":[31,32,33]
+        },
+        {
+            "id":4,
+            "name":"Shereen Reda",
+            "traID":[41]
+        }
+    ],
+    "transactions":[
+        {
+            "id":11, 
+            "userID":1,
+            "date":"2023-09-30",
+            "product":"oppo",
+            "amount":3000,
+            "paymentMethod":"credit Card"
+
+        },
+        {
+            "id":12, 
+            "userID":1,
+            "date":"2023-10-01",
+            "product":"Vevo19",
+            "amount":3000,
+            "paymentMethod":"credit Card"
+
+        },
+        {
+            "id":13, 
+            "userID":1,
+            "date":"2023-10-02",
+            "product":"TV",
+            "amount":8000,
+            "paymentMethod":"credit Card"
+
+        },
+        {
+            "id":14, 
+            "userID":1,
+            "date":"2023-10-03",
+            "product":"Labtop",
+            "amount":25000,
+            "paymentMethod":"Cash"
+
+        },
+        {
+            "id":15, 
+            "userID":1,
+            "date":"2023-10-04",
+            "product":"T-shirt",
+            "amount":500,
+            "paymentMethod":"Cash"
+
+        },
+        {
+            "id":21, 
+            "userID":2,
+            "date":"2023-09-02",
+            "product":"Samsung Galaxy A24",
+            "amount":5000,
+            "paymentMethod":"Credit Card"
+
+        },
+        {
+            "id":22, 
+            "userID":2,
+            "date":"2023-09-03",
+            "product":"Oppo F9",
+            "amount":3000,
+            "paymentMethod":"Cash"
+
+        },
+        {
+            "id":23, 
+            "userID":2,
+            "date":"2023-09-04",
+            "product":"Oppo A12",
+            "amount":6000,
+            "paymentMethod":"Credit Card"
+
+        },
+        {
+            "id":24, 
+            "userID":2,
+            "date":"2023-09-05",
+            "product":"SA12",
+            "amount":2500,
+            "paymentMethod":"Cash"
+
+        },
+        {
+            "id":31, 
+            "userID":3,
+            "date":"2023-08-19",
+            "product":"Toshipa 22",
+            "amount":10000,
+            "paymentMethod":"Credit Card"
+
+        },
+        {
+            "id":32, 
+            "userID":3,
+            "date":"2023-08-20",
+            "product":"P22",
+            "amount":1000,
+            "paymentMethod":"Cash"
+
+        },
+        {
+            "id":33, 
+            "userID":3,
+            "date":"2023-08-21",
+            "product":"Pro 33",
+            "amount":6500,
+            "paymentMethod":"Credit Card"
+
+        },
+        {
+            "id":41, 
+            "userID":4,
+            "date":"2023-09-30",
+            "product":"pro 41",
+            "amount":1000,
+            "paymentMethod":"Cash"
+
+        }
+    ]
+}
